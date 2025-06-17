@@ -4,6 +4,7 @@ Thumbs.db
 
 # Ignore build artifacts
 *.o
+*.out
 *.exe
 
 # Ignore dependency directories
