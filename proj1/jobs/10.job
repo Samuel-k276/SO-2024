@@ -1,0 +1,22 @@
+BACKUP
+SHOW
+WRITE [(l3,56)(e0,45)(o5,64)(l6,86)(t7,96)]
+WRITE [(y4,46)(r2,53)(v1,30)(q1,6)(s3,82)]
+READ [q1]
+WRITE [(w3,91)(p7,63)]
+WRITE [(i4,51)(m7,44)(n6,95)]
+READ [m7]
+SHOW
+WRITE [(k5,8)(i5,70)(u9,6)(w1,76)]
+WRITE [(r7,55)]
+WRITE [(t4,34)]
+READ [w1]
+READ [t4]
+READ [s3]
+READ [q1]
+WRITE [(v4,61)(q9,2)(n1,5)]
+READ [s3]
+WRITE [(s5,43)(o3,1)(m3,35)]
+READ [w3]
+WRITE [(g7,81)(m2,33)(f0,27)(r6,90)(q5,86)]
+READ [r6]

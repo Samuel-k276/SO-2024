@@ -1,0 +1,17 @@
+BACKUP
+WAIT 3000
+BACKUP
+BACKUP
+WRITE [(c1,29)(h5,43)(i5,12)(m0,98)(f0,2)]
+WRITE [(k6,49)]
+READ [h5]
+WRITE [(t0,42)(e7,46)(r7,70)(r5,86)(a4,0)]
+BACKUP
+WRITE [(q7,36)(c9,78)]
+DELETE [m0,a4,r7,h5,r5]
+BACKUP
+WRITE [(h0,89)(k5,85)]
+READ [i5]
+READ [k5]
+DELETE [k6]
+READ [c9]

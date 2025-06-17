@@ -1,0 +1,19 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/

@@ -1,0 +1,15 @@
+WRITE [(h4,70)(y3,7)(t1,5)(h1,97)(g7,1)]
+WRITE [(g3,72)(q3,99)(y5,27)(p7,8)(h7,73)]
+READ [t1]
+SHOW
+WRITE [(o5,95)(f7,13)(c7,46)(u2,50)]
+DELETE [q3,y5,g7,h7,y3]
+READ [f7]
+READ [h1]
+READ [g3]
+SHOW
+WRITE [(e7,84)]
+WAIT 3000
+DELETE [e7,g3,h4,t1,c7]
+WRITE [(g1,41)]
+DELETE [o5,f7,u2,p7,h1]

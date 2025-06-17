@@ -1,0 +1,10 @@
+# This test verifies KVSERROR with keys that never existed and with a key
+# that was deleted. It's also a smoke test for the WRITE operation
+WRITE [(a,anna)(b,bernardo)]
+WRITE [(d,dinis)(c,carlota)]
+READ [l,v,x,z]
+SHOW
+DELETE [c]
+READ [c]
+SHOW
+BACKUP

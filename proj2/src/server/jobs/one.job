@@ -1,0 +1,13 @@
+WRITE [(a,anna)(b,bernardo)]
+WRITE [(d,dinis)(c,carlota)]
+READ [x,z,l,v]
+SHOW
+BACKUP
+DELETE [c]
+READ [c]
+SHOW
+WRITE [(a,test)]
+WAIT 20000
+SHOW
+WRITE [(a,test)]
+DELETE [a]

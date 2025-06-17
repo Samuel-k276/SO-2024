@@ -1,0 +1,13 @@
+WRITE [(j0,55)(o7,36)(n7,89)(u8,88)]
+WRITE [(q0,3)]
+DELETE [j0]
+WRITE [(v2,62)(x4,26)(a2,50)]
+READ [u8]
+WRITE [(s0,73)]
+BACKUP
+READ [a2]
+DELETE [s0,a2,x4]
+WRITE [(j9,31)(d1,89)]
+DELETE [d1,v2,n7,o7]
+WRITE [(u7,78)(j5,5)]
+WRITE [(r4,6)(k5,3)(u2,34)(l5,7)]

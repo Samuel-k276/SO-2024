@@ -1,0 +1,11 @@
+WAIT 3000
+WRITE [(u0,89)(y2,72)(o0,96)(o1,69)]
+WRITE [(n2,97)]
+WRITE [(v9,61)(o7,0)(k5,47)]
+DELETE [o0,v9,n2,o1]
+WRITE [(f6,100)(b6,74)(f3,0)(b0,51)]
+DELETE [b6,y2,f3]
+WRITE [(y2,60)(o6,12)(x0,13)]
+READ [b0]
+WRITE [(y7,32)(s6,33)(o1,15)]
+WRITE [(s2,20)(n6,88)(a2,6)]

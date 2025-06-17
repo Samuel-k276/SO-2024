@@ -1,0 +1,19 @@
+WRITE [(i9,46)(q4,82)]
+WRITE [(l0,30)(t5,78)]
+READ [i9]
+WRITE [(u3,0)(l3,23)(h3,51)(w7,3)]
+WRITE [(b0,25)(f3,41)(e3,89)(c1,87)(t9,39)]
+BACKUP
+READ [t9]
+WRITE [(v4,56)(n4,92)(k2,11)]
+WRITE [(t6,23)]
+SHOW
+SHOW
+WRITE [(n2,90)(p3,70)(b8,88)]
+DELETE [f3,l0,n2]
+READ [p3]
+WRITE [(z9,1)(o2,74)]
+WRITE [(u0,38)(z4,98)]
+BACKUP
+WRITE [(g5,52)]
+WRITE [(j0,69)(q6,40)(k9,9)(c5,2)(q1,64)]

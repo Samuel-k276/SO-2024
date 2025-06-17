@@ -1,0 +1,98 @@
+BACKUP
+WRITE [(m2,0)(m3,43)(f3,24)]
+READ [f3]
+WRITE [(x0,17)(n0,1)(m9,29)(g6,47)(m5,5)]
+WAIT 2000
+WRITE [(e6,87)(t0,87)(k3,11)(o7,65)]
+READ [m9]
+WRITE [(e4,40)(e9,8)(o3,36)]
+SHOW
+READ [o3]
+READ [e6]
+WRITE [(q0,65)(b2,26)]
+WRITE [(j9,81)(f5,35)(i4,23)(z7,95)]
+DELETE [q0,m9]
+WRITE [(v0,38)]
+WRITE [(m1,27)(a4,50)]
+SHOW
+WRITE [(w7,84)(o5,37)(l9,54)(s7,68)]
+WRITE [(u4,79)(q9,24)]
+WRITE [(i5,59)(i9,43)(v2,77)(u3,77)(x2,43)]
+DELETE [g6,i5]
+WAIT 3000
+WRITE [(x3,34)(n4,47)(x3,30)(j0,100)]
+WRITE [(x7,53)(f9,91)(u2,59)]
+READ [m5]
+DELETE [e9,v2]
+WRITE [(e5,15)(e7,67)]
+WRITE [(a3,76)]
+WRITE [(w1,1)(g2,43)]
+READ [x3]
+WRITE [(a7,85)(y4,82)(b5,50)]
+WRITE [(v9,42)(i6,11)]
+WRITE [(f4,37)(i1,1)(q6,74)(t4,66)(r7,16)]
+WRITE [(g0,3)(y3,43)(d8,53)(x9,89)(c3,65)]
+SHOW
+READ [v9]
+WRITE [(v6,21)]
+WRITE [(n7,70)]
+DELETE [e6,u4,n0,x9]
+WRITE [(c9,39)]
+WRITE [(u1,11)]
+WRITE [(l8,15)(j3,38)(b0,42)(y1,49)]
+READ [f4]
+DELETE [v6,y1]
+WRITE [(d6,74)]
+WAIT 3000
+WRITE [(l0,17)(z6,51)(o1,30)(o6,11)(p2,82)]
+DELETE [a3,p2,t4,l9,c9]
+WRITE [(k1,30)(v3,12)(x1,1)(y5,49)(e9,39)]
+WRITE [(r5,25)(r4,11)]
+BACKUP
+WRITE [(i3,35)(j5,100)(c1,18)(z2,33)]
+WRITE [(q0,51)(t3,62)(d7,41)(k8,70)(d7,17)]
+WRITE [(n1,44)(z4,60)(i8,63)(r3,19)(h1,48)]
+WRITE [(c7,4)(n2,49)(c4,49)(r6,55)]
+READ [q0]
+WRITE [(g7,82)(f8,4)(p1,12)(t4,49)(p7,56)]
+DELETE [n2,q9,n4,c4,o5]
+WRITE [(p8,21)(v8,81)(a0,70)(b7,17)]
+READ [r3]
+WRITE [(s1,64)(w4,56)(c6,2)(w3,33)(z0,45)]
+DELETE [t0,k3,p7]
+DELETE [a0,r4]
+WRITE [(y2,57)]
+WRITE [(u8,70)]
+SHOW
+SHOW
+DELETE [d6,v9,k8,m3,c1]
+WRITE [(b4,63)(l9,83)(a9,41)(r4,29)]
+WRITE [(l5,58)]
+WRITE [(b3,10)(y0,10)(p4,52)]
+DELETE [o3,a4,u1]
+DELETE [g0,w1,f5]
+WRITE [(o2,48)(g8,56)]
+DELETE [o7,f9]
+READ [i1]
+WAIT 1000
+READ [y2]
+WAIT 2000
+BACKUP
+READ [d8]
+DELETE [y3,z2,a7,o6,p4]
+READ [w7]
+WAIT 2000
+WRITE [(e6,62)(y6,45)(j8,19)(h9,69)(q8,77)]
+READ [g2]
+SHOW
+WRITE [(r2,87)(n6,53)(q7,14)(p3,9)]
+READ [j3]
+SHOW
+READ [f3]
+WRITE [(p2,67)(l1,27)]
+READ [f4]
+WRITE [(t8,31)(u5,78)(l6,86)(k3,75)(g5,41)]
+BACKUP
+READ [l8]
+WAIT 3000
+DELETE [i9,f4,h1,p3]

@@ -1,0 +1,87 @@
+WRITE [(e2,32)(d5,40)(h9,49)(q0,33)]
+SHOW
+WRITE [(m1,83)(s3,87)]
+WRITE [(n3,93)(p5,18)(b1,90)]
+DELETE [e2,h9,s3,m1,p5]
+READ [d5]
+WRITE [(w3,11)(p1,27)]
+WRITE [(w6,18)(o9,89)(r5,90)(i0,27)]
+WRITE [(t4,44)(f9,44)]
+WRITE [(g2,30)(d7,54)(n5,24)(h1,50)]
+DELETE [g2,d7,h1,w6,o9]
+DELETE [b1,w3,q0,r5]
+WRITE [(h7,58)(o6,59)(z0,66)]
+DELETE [t4]
+WRITE [(n7,79)(t5,59)(y1,99)(k6,86)]
+BACKUP
+WAIT 2000
+WRITE [(b9,82)(j1,45)(d2,82)]
+SHOW
+READ [p1]
+WRITE [(i7,84)(u2,93)]
+READ [i7]
+WRITE [(p8,51)(h4,76)(x4,69)(c4,77)(l7,55)]
+BACKUP
+WRITE [(x9,75)(w4,22)(n2,26)(e0,38)(v0,95)]
+WRITE [(h9,39)]
+READ [b9]
+READ [e0]
+WRITE [(v2,18)]
+WRITE [(m0,99)(u9,70)(w7,15)(g3,100)(k9,7)]
+WRITE [(b0,26)(j3,1)(v1,62)]
+WRITE [(i8,77)(d8,81)]
+WRITE [(z3,76)(o5,34)(e4,68)(n6,70)]
+READ [h4]
+WRITE [(e5,20)(h2,87)(n8,97)(p9,28)]
+WRITE [(d6,97)(g1,89)(r7,85)(g8,91)(i2,8)]
+DELETE [l7]
+READ [n2]
+WRITE [(y4,46)(s1,85)]
+WRITE [(v5,50)(x5,91)(k8,41)]
+WRITE [(p4,98)]
+WRITE [(g7,85)(z8,32)(z7,55)(v6,74)]
+WAIT 1000
+DELETE [g1,h2,d2,x9,b9]
+WRITE [(a3,63)(m4,44)(l0,3)]
+BACKUP
+WRITE [(q3,12)(i9,6)(c3,37)]
+READ [t5]
+SHOW
+WRITE [(d9,76)(k0,67)]
+DELETE [g3,r7]
+WRITE [(l7,39)(q2,8)]
+READ [y4]
+WRITE [(t0,58)(g5,22)(c5,46)]
+WRITE [(t1,62)(w5,5)(w2,83)(y5,99)(g9,91)]
+SHOW
+READ [e0]
+WRITE [(d7,65)(l9,99)(k3,85)]
+WRITE [(s8,59)]
+READ [l0]
+WRITE [(t3,0)(m2,37)(f3,31)(h1,40)(t9,89)]
+SHOW
+WRITE [(g2,87)(m7,18)(z2,54)]
+BACKUP
+WRITE [(d4,64)(g6,70)(y2,23)]
+SHOW
+WRITE [(e8,32)(m3,94)(c8,53)(s7,93)(w1,69)]
+WRITE [(d0,53)(c6,86)(p3,81)(s3,34)(a4,65)]
+WRITE [(w9,82)(q6,18)(s6,6)(r8,91)(h0,31)]
+WRITE [(v9,28)(b4,37)(w0,13)]
+WRITE [(q5,95)(u1,19)(h5,80)(b9,18)]
+WRITE [(m9,98)(u0,45)(f6,9)]
+WRITE [(e1,31)(j4,31)(b3,65)(k4,34)]
+BACKUP
+WRITE [(f5,99)(o8,80)(v8,12)]
+BACKUP
+WRITE [(d2,79)]
+WRITE [(e7,83)(n0,40)]
+WRITE [(a6,35)(h2,7)]
+WRITE [(a2,14)(h3,78)]
+READ [g2]
+WAIT 2000
+BACKUP
+WRITE [(n1,47)(y7,71)(k1,45)(u4,43)]
+WRITE [(j7,72)(l4,21)(o1,74)]
+WRITE [(q7,96)(c1,15)(i3,27)(y8,89)(i4,58)]
+DELETE [b4]

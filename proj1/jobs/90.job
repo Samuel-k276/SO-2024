@@ -1,0 +1,11 @@
+WRITE [(r4,67)(w6,1)(h1,95)(d1,94)(d9,9)]
+WAIT 1000
+WRITE [(t5,41)(p1,17)(f1,59)]
+DELETE [d9,d1,p1]
+WRITE [(w2,22)(w3,69)(y1,78)(c8,40)]
+WRITE [(r7,23)]
+DELETE [h1,t5,y1]
+WRITE [(p0,12)(z4,47)(f6,83)(f4,2)(l8,29)]
+READ [r4]
+READ [f1]
+DELETE [f4,r4,f6,w2,z4]
